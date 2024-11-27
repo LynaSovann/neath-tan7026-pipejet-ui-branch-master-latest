@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: neath-tan7026-pipejet-ui-branch-master-latest-container
-          image: pipejet/neath-tan7026-pipejet-ui-branch-master-latest:2
+          image: pipejet/neath-tan7026-pipejet-ui-branch-master-latest:3
           ports:
             - containerPort: 3000
